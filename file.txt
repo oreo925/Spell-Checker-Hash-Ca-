@@ -1,0 +1,3 @@
+Depth-First Search is one more method used to cross a tree or a chart.
+DFS begins with a root hub or a beginning hub and afterward investigates the neighboring hubs of the ongoing hub by going further into the chart or a tree. This intends that in DFS the hubs are investigated profundity wise until a hub without any youngsters is experienced.
+When the leaf hub is reached, DFS backtracks and begins investigating a few additional hubs likewise. DFS is a recursive calculation for looking through all the vertices of a chart or tree information structure. Crossing implies visiting every one of the hubs of a chart. 
